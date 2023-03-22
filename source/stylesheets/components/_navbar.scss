@@ -1,4 +1,18 @@
+#navbarText {
+  position: fixed;
+  top: 50px;
+  left: 60px;
+  width: 100%;
+  z-index: 1000;
+}
 
+#navbar-myName {
+  position: fixed;
+  top: 55px;
+  right: -1080px;
+  width: 100%;
+  z-index: 1000;
+}
 
 #navbar-top {
   margin-top: -56px;
